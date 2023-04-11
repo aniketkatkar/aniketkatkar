@@ -35,6 +35,7 @@ Easily share your portfolio across several platforms with the help of personaliz
 <br />
 Check out our social media:
 <br />
+
 [![website](./img/web.png)](https://profylo.com)
 &nbsp;&nbsp;
 [![website](./img/twitter.png)](https://twitter.com/profylo)
@@ -58,6 +59,7 @@ Check out our social media:
 Introducing the ultimate tool for efficiency and productivity - the Macro Keyboard. With its advanced capabilities, assign specific keystrokes or commands to individual keys, allowing you to automate frequently used tasks and shortcuts at the touch of a button.
 Follow us for latest updates:
 <br />
+
 [![website](./img/web.png)](https://themacroproject.github.com)
 &nbsp;&nbsp;
 [![website](./img/twitter.png)](https://twitter.com/themacroproject)
