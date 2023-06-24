@@ -110,7 +110,7 @@ Follow us for latest updates:
 
 </details>
 
-[website]: https://aniketkatkar.github.com
+[website]: https://aniketkatkar.github.io
 [twitter]: https://twitter.com/aniketkatkar
 [youtube]: https://youtube.com/aniketkatkar
 [instagram]: https://instagram.com/aniketkatkar
