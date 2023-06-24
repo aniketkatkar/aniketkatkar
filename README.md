@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/web.png)](https://aniketkatkar.github.com)
+[![website](./img/web.png)](https://aniketkatkar.github.io)
 &nbsp;&nbsp;
 [![website](./img/twitter.png)](https://twitter.com/aniketkatkarz)
 &nbsp;&nbsp;
