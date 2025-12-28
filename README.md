@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 [![website](./img/github.png)](https://github.com/aniketkatkar)
 &nbsp;&nbsp;
-[![website](./img/reddit.png)](https://reddit.com/r/repulsive_slide)
+[![website](./img/reddit.png)](https://www.reddit.com/user/repulsive_slide/)
 
 
 I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -34,9 +34,10 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 ### 🛠️ Some of my Projects
 
-- <a href="https://github.com/aniketkatkar/M5Cardputer-Macro-Keypad" target="_blank">M5Cardputer-Macro-Keypad</a>
+- <a href="https://github.com/aniketkatkar/M5Cardputer-Macro-Keypad" target="_blank">M5Cardputer Macro Keypad</a>
 - <a href="https://github.com/aniketkatkar/aniketkatkar.github.io" target="_blank">Personal Portfolio</a>
-- <a href="https://github.com/aniketkatkar/ESP32CryptocurrencyTicker" target="_blank">ESP32CryptocurrencyTicker</a>
+- <a href="https://github.com/aniketkatkar/ESP32CryptocurrencyTicker" target="_blank">ESP32 Cryptocurrency Ticker</a>
+- <a href="https://github.com/aniketkatkar/GPlay-App-AutoInstaller" target="_blank">Google Play App AutoInstaller</a>
 
 
 
